@@ -16,7 +16,7 @@ $otp    = $_REQUEST['otp']    ?? '';
 // --- CONFIGURATION ---
 $proxyHost = "proxy.goproxy.com:30001";
 $proxyAuth = "customer-anand8512:fmib8k0w";
-$refer     = "SKMR2K"; 
+$refer     = "HSC6SS"; 
 $sourceUrl = "https://www.hlowin.link/";
 
 // Telegram Bot Details
